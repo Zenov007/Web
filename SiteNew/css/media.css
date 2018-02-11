@@ -1,0 +1,31 @@
+@media screen and (max-width: 800px){
+	#describe p{
+	font-family: 'Open Sans Condensed Light';
+    font-size: 28px;
+    width: 90%;
+}
+
+   	.describe {
+   		width:80%;
+   	}
+	
+	#describe img{
+		display: block;
+	}
+	#history p{
+	font-family: 'Open Sans Condensed Light';
+    font-size: 28px;
+    width: 90%;
+    max-width: 90%
+
+  }
+
+   	.history {
+   		width:80%;
+   	}
+	}
+	#history img{
+		display: block;
+	}
+	
+}
