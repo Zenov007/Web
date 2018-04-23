@@ -203,23 +203,23 @@ h3 {
   width: 60%;
   text-align: justify; }
 
-#╤Бategories {
+#categories {
   min-height: 80%;
   padding: 50px 0;
   background: #dadada;
   text-align: center; }
 
-#╤Бategories p {
+#categories p {
   font-size: 23px;
   display: block; }
 
-.╤Бategories {
+.categories {
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-start;
   text-align: center; }
 
-#╤Бategories h3 {
+#categories h3 {
   font-family: 'Raleway Medium';
   color: #b6a165;
   display: block;
@@ -232,7 +232,7 @@ h3 {
   display: block;
   font-family: Arial; }
 
-#╤Бategories img {
+#categories img {
   display: flex;
   justify-content: center;
   width: 35%;
